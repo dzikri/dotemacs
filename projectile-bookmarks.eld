@@ -1,0 +1,1 @@
+("~/Downloads/gentelella-1.3.0/vendors/jszip/" "~/learspace/traning/helloapp/" "~/.dotfiles/" "~/workspace/uq/website/wegwebuq/" "~/learspace/traning/python/")
